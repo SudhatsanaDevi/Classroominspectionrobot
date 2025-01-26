@@ -1,2 +1,1 @@
-# Classroominspectionrobot
- python project
+
